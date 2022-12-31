@@ -1,8 +1,5 @@
 body {
-  /* background: linear-gradient(90deg, #20e6b3, #8e11f3, #4c20d4); */
-  /* background:linear-gradient(90deg, #3e5151 0%, #decba4 100%); */
   background: #dbf7f1;
-  /* background:#f1dbf7 */
 }
 a .navbar-item:hover {
   color: #dbf7f1;
@@ -15,8 +12,6 @@ a .navbar-item:hover {
 .slick-prev {
   left: 3% !important;
   z-index: 1;
-  /* width: 20%;
-  height: 100%; */
 }
 .slick-next {
   right: 3% !important;
