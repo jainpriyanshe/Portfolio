@@ -1,33 +1,29 @@
-body{
+body {
   /* background: linear-gradient(90deg, #20e6b3, #8e11f3, #4c20d4); */
   /* background:linear-gradient(90deg, #3e5151 0%, #decba4 100%); */
-  background:#dbf7f1
+  background: #dbf7f1;
   /* background:#f1dbf7 */
-
 }
-a .navbar-item:hover{
-color:#dbf7f1 ;
-border-radius: 20px ;
+a .navbar-item:hover {
+  color: #dbf7f1;
+  border-radius: 20px;
 }
 .card:hover {
-    transform: translateY(-1.1rem);
-  }
+  transform: translateY(-1.1rem);
+}
 
 .slick-prev {
   left: 3% !important;
   z-index: 1;
   /* width: 20%;
   height: 100%; */
-
 }
- .slick-next {
+.slick-next {
   right: 3% !important;
   z-index: 1;
 }
 
-.slick-prev::before, .slick-next::before {
-
+.slick-prev::before,
+.slick-next::before {
   color: black !important;
-
 }
-

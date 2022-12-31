@@ -5,11 +5,10 @@ import "slick-carousel/slick/slick-theme.css";
 import { AiOutlineHtml5 } from "react-icons/ai";
 import { DiCss3 } from "react-icons/di";
 import { SiJavascript } from "react-icons/si";
-import {GrMysql} from "react-icons/gr"
+import { GrMysql } from "react-icons/gr";
 import { FaReact } from "react-icons/fa";
 import { SiBulma } from "react-icons/si";
 import { FaFigma } from "react-icons/fa";
-
 
 export default function Skills() {
   const settings = {
@@ -62,33 +61,73 @@ export default function Skills() {
         </h1>
         <h2 className="subtitle has-text-grey is-6 ">My Technical Skills</h2>
       </div>
- {/* Carousel */}
+      {/* Carousel */}
       <Slider {...settings}>
         <div className="is-flex is-justify-content-center">
-          <AiOutlineHtml5 style={{ fontSize: "100px",color:'#e34c26',background: "#dbf7f1" }} />
+          <AiOutlineHtml5
+            style={{
+              fontSize: "100px",
+              color: "#e34c26",
+              background: "#dbf7f1",
+            }}
+          />
         </div>
         <div className=" is-flex is-justify-content-center">
-          <DiCss3 style={{ fontSize: "100px", color:'#1976d2', background: "#dbf7f1" }} />
+          <DiCss3
+            style={{
+              fontSize: "100px",
+              color: "#1976d2",
+              background: "#dbf7f1",
+            }}
+          />
         </div>
         <div className="is-flex is-justify-content-center">
-          <SiJavascript style={{ fontSize: "100px", color: "#f0db4f", background: "#dbf7f1" }} />
+          <SiJavascript
+            style={{
+              fontSize: "100px",
+              color: "#f0db4f",
+              background: "#dbf7f1",
+            }}
+          />
         </div>
         <div className=" is-flex is-justify-content-center">
-          <FaReact style={{ fontSize: "100px", color: "#78cff5", background: "#dbf7f1" }} />
+          <FaReact
+            style={{
+              fontSize: "100px",
+              color: "#78cff5",
+              background: "#dbf7f1",
+            }}
+          />
         </div>
 
         <div className="is-flex is-justify-content-center">
-          <SiBulma style={{ fontSize: "100px", color: "#3dc5ac", background: "#dbf7f1" }} />
+          <SiBulma
+            style={{
+              fontSize: "100px",
+              color: "#3dc5ac",
+              background: "#dbf7f1",
+            }}
+          />
         </div>
         <div className=" is-flex is-justify-content-center">
-          <FaFigma style={{ fontSize: "100px",color:"#f95c1c", background: "#dbf7f1"
- }} />
+          <FaFigma
+            style={{
+              fontSize: "100px",
+              color: "#f95c1c",
+              background: "#dbf7f1",
+            }}
+          />
         </div>
         <div className=" is-flex is-justify-content-center">
-          <GrMysql style={{ fontSize: "100px", color: "#00758F", background: "#dbf7f1" }} />
+          <GrMysql
+            style={{
+              fontSize: "100px",
+              color: "#00758F",
+              background: "#dbf7f1",
+            }}
+          />
         </div>
       </Slider>
-     
     </section>
   );
 }

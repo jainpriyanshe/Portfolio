@@ -17,7 +17,7 @@ export default function Navbar() {
       aria-label="main navigation"
     >
       <div className="navbar-brand">
-        <a  className="pl-6" href="/">
+        <a className="pl-6" href="/">
           <img
             className="is-rounded"
             style={{ width: "60px", height: "60px", borderRadius: "50%" }}
@@ -79,14 +79,7 @@ export default function Navbar() {
             <button className=" button is-light  "> Resume</button>
           </a>
         </div>
-        {/* <div className="navbar-end">
-          <a href="#" className="navbar-item">
-            <i className="fa fa-search"></i>
-          </a>
-          <a href="#" className="navbar-item">
-            <i className="fa fa-shopping-bag"></i>
-          </a>
-        </div> */}
+       
       </div>
     </nav>
   );
