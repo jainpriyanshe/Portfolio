@@ -61,7 +61,7 @@ export default function Experience() {
             </div>
           </div>
         </div>
-        <div className="is-half is-flex is-justify-content-center ">
+        {/* <div className="is-half is-flex is-justify-content-center ">
           {" "}
           <div
             className="card flex-row flex-wrap mt-4"
@@ -108,7 +108,7 @@ export default function Experience() {
               </div>
             </div>
           </div>
-        </div>
+        </div> */}
       </div>
     </section>
   );

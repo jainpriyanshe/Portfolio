@@ -75,11 +75,11 @@ export default function Navbar() {
           </a>
         </div>
         <div className="navbar-end is-align-items-center has-text-centered">
-          <a href="/Priyanshi Jain Resume.pdf" download>
+          <a href="public\Resume- Priyanshi Jain.pdf" download>
             <button className=" button is-light  "> Resume</button>
           </a>
         </div>
-       
+
       </div>
     </nav>
   );
