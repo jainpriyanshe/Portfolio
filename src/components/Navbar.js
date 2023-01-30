@@ -75,7 +75,7 @@ export default function Navbar() {
           </a>
         </div>
         <div className="navbar-end is-align-items-center has-text-centered">
-          <a href="public\Resume- Priyanshi Jain.pdf" download>
+          <a href="/Resume-Priyanshi Jain.pdf" download>
             <button className=" button is-light  "> Resume</button>
           </a>
         </div>
