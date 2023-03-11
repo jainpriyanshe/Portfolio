@@ -83,7 +83,7 @@ export default function Experience() {
                 <BsCodeSlash />
               </div>
               <h4 className="title is-5 is-flex is-justify-content-center ">
-                Web Development
+              Associate Software Developer 
               </h4>
               <h2 className="subtitle has-text-grey is-6 is-flex is-justify-content-center">
                 Info Origin Inc                                                                                                   
@@ -91,10 +91,7 @@ export default function Experience() {
 
               <div className="content">
                 <p className="content is-flex has-text-centered  pb-4">
-                  The company specialized in providing professional website
-                  design and development services. They also offer HR Services
-                  which helps organization to hire temporary or full time IT
-                  resources.
+                Info Origin provides custom application development solutions for large established enterprise companies to a small startup organizations.
                 </p>
                 <h6 className="subtitle is-6  has-text-grey is-flex is-justify-content-center">
                   Skills
