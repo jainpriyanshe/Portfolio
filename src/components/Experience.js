@@ -61,7 +61,7 @@ export default function Experience() {
             </div>
           </div>
         </div>
-        {/* <div className="is-half is-flex is-justify-content-center ">
+        <div className="is-half is-flex is-justify-content-center ">
           {" "}
           <div
             className="card flex-row flex-wrap mt-4"
@@ -86,7 +86,7 @@ export default function Experience() {
                 Web Development
               </h4>
               <h2 className="subtitle has-text-grey is-6 is-flex is-justify-content-center">
-                Necron Technologies
+                Info Origin Inc                                                                                                   
               </h2>
 
               <div className="content">
@@ -108,7 +108,7 @@ export default function Experience() {
               </div>
             </div>
           </div>
-        </div> */}
+        </div>
       </div>
     </section>
   );
