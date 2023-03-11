@@ -11,7 +11,7 @@ export default function Home() {
           </span>
           <h2 className="subtitle"> Software Engineer</h2>
           <h3 className="quote subtitle is-6 has-text-centered">
-            An Enginner with a passion of Learning and Creating.
+            An Engineer with a passion of Learning and Creating.
           </h3>
         </div>
         <div className="container is-flex is-justify-content-center is-flex-direction-column m-3">
