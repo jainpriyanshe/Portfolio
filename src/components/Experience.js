@@ -36,26 +36,27 @@ export default function Experience() {
                 <BsHeadphones />
               </div>
               <h4 className="title is-5 is-flex is-justify-content-center ">
-                Software Specialist{" "}
+                Web Developer{" "}
               </h4>
               <h2 className="subtitle has-text-grey is-6 is-flex is-justify-content-center">
-                eClinicalWorks{" "}
+                Necron Technologies{" "}
               </h2>
 
               <div className="content">
                 <p className="content is-flex has-text-centered pb-4">
-                  eClinicalWorks is a company that sells electronic medical
-                  record (EMR), practice management and personal health record
-                  software and services to healthcare providers.
+                  Necron Technologies is a company that provides multiple services, they mainly focus on web development, mobile app development and recuirtment service for there client.
+                  
+          
                 </p>
                 <h6 className="subtitle is-6  has-text-grey is-flex is-justify-content-center ">
                   Skills
                 </h6>
                 <ul>
-                  <li>MYSQL, MSSQL</li>
-                  <li>Analytical and Problem Solving</li>
-                  <li>Writing/documentation and communication skills.</li>
-                  <li>Troubleshooting hardware and software.</li>
+                  <li>React Js</li>
+                  <li>HTML/CSS</li>
+                  <li>JavaScript</li>
+                  <li>Figma</li>
+                <li>Git</li>
                 </ul>
               </div>
             </div>
@@ -86,12 +87,12 @@ export default function Experience() {
               Associate Software Developer 
               </h4>
               <h2 className="subtitle has-text-grey is-6 is-flex is-justify-content-center">
-                Info Origin Inc                                                                                                   
+                Cloudfumes Technology Software                                                                                                   
               </h2>
 
               <div className="content">
                 <p className="content is-flex has-text-centered  pb-4">
-                Info Origin provides custom application development solutions for large established enterprise companies to a small startup organizations.
+               Cloudfumes Technology Software provides custom application development solutions for large established enterprise companies to a small startup organizations.
                 </p>
                 <h6 className="subtitle is-6  has-text-grey is-flex is-justify-content-center">
                   Skills
@@ -99,7 +100,7 @@ export default function Experience() {
                 <ul>
                   <li>HTML, CSS</li>
                   <li>JavaScript</li>
-                  <li>React</li>
+                  <li>Vue Js</li>
                   <li>Figma</li>
                 </ul>
               </div>
