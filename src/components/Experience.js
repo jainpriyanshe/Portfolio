@@ -44,7 +44,7 @@ export default function Experience() {
 
               <div className="content">
                 <p className="content is-flex has-text-centered pb-4">
-                  Necron Technologies is a company that provides multiple services, they mainly focus on web development, mobile app development and recuirtment service for there client.
+                  Necron Technologies is a company that provides multiple services, they mainly focus on web development, mobile app development, and recruitment services for their clients.
                   
           
                 </p>
